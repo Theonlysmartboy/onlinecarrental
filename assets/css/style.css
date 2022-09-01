@@ -12,3 +12,22 @@
 .ticked li:before {
 	content: "✓";
 }
+.br-primary{
+	background-color: #0a81df !important;
+}
+.bg-primary-dark{
+	background-color: #00365c;
+}
+.btn-primary{
+	background: #00365c !important;
+
+}
+.bg-teal{
+	background-color: rgba(127, 255, 212,0.2)
+}
+.container{
+	padding: 35px;
+}
+.text-sm{
+	font-size: small;
+}
